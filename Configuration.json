@@ -1,0 +1,9 @@
+{
+    "input":{
+        "Input_WebSite_list":"C:\\Users\\gaurav.anand\\OneDrive - NIIT Technologies 1\\Automation COC\\SVN\\WebScraping\\WebScraping\\Websites-Main 8.xlsx"
+    },
+    "output":{
+        "Extrated_Content_File_Path":"C:\\Users\\gaurav.anand\\Downloads\\Web Scraping AI\\extracts",
+		"Extration_Result_File_Path":"C:\\Users\\gaurav.anand\\Downloads\\Web Scraping AI\\Website_Extraction_results.csv",
+    }
+}
